@@ -1,0 +1,27 @@
+# Bank-App-User-Guide---Ruti-
+It is a step-by-step explanation of how to sign up for the banking app in a structured manner.
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="signup-netbanking">
+    <title>Learn to Sign up for Netbanking at Maxis Bank</title>
+    <taskbody>
+        <shortdesc>Here's how you sign up for netbanking.</shortdesc>
+        <prereq>
+            <p>Make sure your phone is unlocked beforehand.</p>
+        </prereq>
+        <steps>
+            <step>
+                <cmd>Navigate to the Maxis bank app and tap to open it.</cmd>
+            </step>
+            <step>
+                <cmd>Enter your email ID and password according to the criteria.</cmd>
+            </step>
+            <step>
+                <cmd>Touch the "Sign Up" button.</cmd>
+            </step>
+        </steps>
+        <result>
+            <p>You will receive an OTP on your registered mobile number to verify your account.</p>
+        </result>
+    </taskbody>
+</task>
